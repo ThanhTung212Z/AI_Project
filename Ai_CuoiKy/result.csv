@@ -1,0 +1,109 @@
+ID,Giảng viên,Môn học,Thứ,Phòng,Ca
+34,Lê Phi Hùng,Lập trình cơ bản,2,P1,2
+81,Nguyễn Thanh Phước,Giao tiếp người máy,2,P2,1
+79,Nguyễn Văn Dũ,Cấu trúc dữ liệu,2,P2,2
+2,Phan Đình Long,Lập trình web,2,P2,4
+98,Nguyễn Thị Phương Trâm,Lập trình mạng,2,P3,1
+44,Khương Hải Châu,Cấu trúc dữ liệu,2,P3,2
+101,Nguyễn Thị Phương Trâm,Lập trình mạng,2,P3,4
+16,Đặng Kiên Cường,Tin học đại cương,2,P4,1
+42,Khương Hải Châu,Cấu trúc dữ liệu,2,HD102,4
+9,Trần Thị Thanh Nga,Giao tiếp người máy,2,CT103,4
+6,Trần Thị Thanh Nga,ĐBLC và kiểm thử phần mềm,2,CT202,2
+19,Phan Vĩnh Thuần,Hệ điều hành nâng cao,2,CT301,2
+56,Võ Tấn Toàn,Lập trình trên TB di động,3,P1,2
+106,Trần Lê Quỳnh Như,Cấu trúc dữ liệu,3,P1,3
+3,Phan Đình Long,Lập trình web,3,P1,4
+64,Võ Tấn Toàn,Giao tiếp người máy,3,P2,1
+91,Võ Tấn Linh,Nhập môn tin học,3,P2,4
+21,Phan Vĩnh Thuần,Hệ điều hành nâng cao,3,P3,1
+107,Trần Lê Quỳnh Như,Cấu trúc dữ liệu,3,P3,2
+99,Nguyễn Thị Phương Trâm,Lập trình mạng,3,P3,3
+37,Lê Phi Hùng,Phân tích và thiết kế HTTT,3,P3,4
+30,Lê Phi Hùng,Lập trình web,3,P4,1
+40,Khương Hải Châu,Thương mại điện tử,3,P4,2
+20,Phan Vĩnh Thuần,Hệ điều hành nâng cao,3,P4,3
+102,Trần Lê Quỳnh Như,Phân tích và thiết kế HTTT,3,HD203,4
+45,Nguyễn Thị Minh Hương,Chuyên đề Oracle,3,CT203,2
+50,Nguyễn Đức Công Song,Đồ họa máy tính,3,CT103,2
+47,Nguyễn Thị Minh Hương,Phân tích và thiết kế HTTT,3,CT202,4
+95,Nguyễn Thị Phương Trâm,Tin học đại cương,3,CT301,1
+83,Nguyễn Thanh Phước,Quản lý dự án phần mềm,3,CT301,4
+80,Nguyễn Thanh Phước,Giao tiếp người máy,3,CT102,2
+53,Nguyễn Đức Công Song,Lập trình cơ bản,3,CT201,3
+57,Võ Tấn Toàn,Lập trình trên TB di động,4,P1,1
+43,Khương Hải Châu,Cấu trúc dữ liệu,4,P1,3
+5,Phan Đình Long,Lập trình web,4,P2,1
+90,Võ Tấn Linh,Nhập môn tin học,4,P2,2
+97,Nguyễn Thị Phương Trâm,Lập trình mạng,4,P2,3
+27,Phan Vĩnh Thuần,Quản trị mạng,4,P2,4
+25,Phan Vĩnh Thuần,Hệ điều hành nâng cao,4,P3,1
+75,Nguyễn Văn Dũ,Lập trình cơ bản,4,P3,2
+54,Nguyễn Đức Công Song,Lập trình cơ bản,4,P3,3
+89,Võ Tấn Linh,Nhập môn tin học,4,P4,1
+41,Khương Hải Châu,Thương mại điện tử,4,P4,2
+11,Trần Thị Thanh Nga,Giao tiếp người máy,4,P4,3
+84,Nguyễn Thanh Phước,Quản lý dự án phần mềm,4,P4,4
+88,Võ Tấn Linh,Nhập môn tin học,4,HD201,3
+13,Đặng Kiên Cường,Tin học đại cương,4,HD202,4
+1,Phan Đình Long,Lập trình web,4,CT303,3
+55,Võ Tấn Toàn,Lập trình trên TB di động,4,CT203,2
+66,Phạm Văn Tính,Mạng máy tính cơ bản,4,CT203,3
+93,Nguyễn Thị Phương Trâm,Tin học đại cương,4,CT301,4
+14,Đặng Kiên Cường,Tin học đại cương,4,CT102,2
+12,Đặng Kiên Cường,Tin học đại cương,4,CT101,1
+17,Phan Vĩnh Thuần,Hệ điều hành nâng cao,4,CT101,2
+78,Nguyễn Văn Dũ,Cấu trúc dữ liệu,5,P1,3
+22,Phan Vĩnh Thuần,Hệ điều hành nâng cao,5,P1,4
+100,Nguyễn Thị Phương Trâm,Lập trình mạng,5,P2,1
+96,Nguyễn Thị Phương Trâm,Lập trình mạng,5,P2,3
+31,Lê Phi Hùng,Lập trình web,5,P2,4
+24,Phan Vĩnh Thuần,Hệ điều hành nâng cao,5,P3,1
+33,Lê Phi Hùng,Lập trình cơ bản,5,P3,3
+36,Lê Phi Hùng,Phân tích và thiết kế HTTT,5,P4,1
+76,Nguyễn Văn Dũ,Lập trình cơ bản,5,P4,2
+4,Phan Đình Long,Lập trình web,5,P4,3
+49,Nguyễn Thị Minh Hương,Phân tích và thiết kế HTTT,5,P4,4
+67,Phạm Văn Tính,Mạng máy tính cơ bản,5,HD201,4
+61,Võ Tấn Toàn,Tin học đại cương,5,HD202,1
+94,Nguyễn Thị Phương Trâm,Tin học đại cương,5,HD301,2
+63,Võ Tấn Toàn,Giao tiếp người máy,5,HD203,2
+38,Khương Hải Châu,Thương mại điện tử,5,CT104,2
+62,Võ Tấn Toàn,Tin học đại cương,5,CT104,3
+69,Phạm Văn Tính,Lập trình mạng,5,CT203,3
+86,Võ Tấn Linh,Tin học đại cương,5,CT301,4
+72,Phạm Văn Tính,Chuyên đề Java,5,CT102,2
+87,Võ Tấn Linh,Nhập môn tin học,5,CT102,3
+65,Võ Tấn Toàn,Giao tiếp người máy,6,P1,2
+82,Nguyễn Thanh Phước,Giao tiếp người máy,6,P1,3
+73,Phạm Văn Tính,Chuyên đề Java,6,P1,4
+103,Trần Lê Quỳnh Như,Phân tích và thiết kế HTTT,6,P2,2
+28,Phan Vĩnh Thuần,Quản trị mạng,6,P3,1
+15,Đặng Kiên Cường,Tin học đại cương,6,P3,2
+92,Võ Tấn Linh,Nhập môn tin học,6,P3,3
+10,Trần Thị Thanh Nga,Giao tiếp người máy,6,P3,4
+7,Trần Thị Thanh Nga,ĐBLC và kiểm thử phần mềm,6,P4,1
+59,Võ Tấn Toàn,Lập trình trên TB di động,6,P4,3
+23,Phan Vĩnh Thuần,Hệ điều hành nâng cao,6,P4,4
+70,Phạm Văn Tính,Lập trình mạng,6,HD102,2
+77,Nguyễn Văn Dũ,Cấu trúc dữ liệu,6,HD201,1
+60,Võ Tấn Toàn,Tin học đại cương,6,HD203,1
+29,Lê Phi Hùng,Lập trình web,6,HD203,2
+18,Phan Vĩnh Thuần,Hệ điều hành nâng cao,6,CT203,3
+105,Trần Lê Quỳnh Như,Cấu trúc dữ liệu,6,CT103,3
+35,Lê Phi Hùng,Phân tích và thiết kế HTTT,6,CT102,4
+48,Nguyễn Thị Minh Hương,Phân tích và thiết kế HTTT,7,P1,3
+52,Nguyễn Đức Công Song,Đồ họa máy tính,7,P2,1
+104,Trần Lê Quỳnh Như,Phân tích và thiết kế HTTT,7,P2,2
+46,Nguyễn Thị Minh Hương,Chuyên đề Oracle,7,P3,1
+51,Nguyễn Đức Công Song,Đồ họa máy tính,7,P3,2
+8,Trần Thị Thanh Nga,ĐBLC và kiểm thử phần mềm,7,P4,1
+85,Nguyễn Thanh Phước,Quản lý dự án phần mềm,7,P4,2
+39,Khương Hải Châu,Thương mại điện tử,7,P4,3
+26,Phan Vĩnh Thuần,Quản trị mạng,7,HD103,3
+108,Phan Đình Long,Lập trình web,7,HD202,1
+32,Lê Phi Hùng,Lập trình cơ bản,7,HD301,1
+58,Võ Tấn Toàn,Lập trình trên TB di động,7,CT302,1
+71,Phạm Văn Tính,Lập trình mạng,7,CT103,2
+74,Nguyễn Văn Dũ,Lập trình cơ bản,7,CT301,2
+68,Phạm Văn Tính,Mạng máy tính cơ bản,7,CT102,3
